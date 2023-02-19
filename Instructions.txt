@@ -1,0 +1,7 @@
+1) To start the server :
+
+python manage.py runserver
+
+2) To create a superuser :
+
+
